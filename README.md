@@ -1,11 +1,12 @@
-# Curso de Web Scraping com Python
-Material de apoio do Curso de Web Scraping com Python.
+# Curso de Web Scraping com Python e Beautiful Soup
+Material de apoio do Curso de Web Scraping com Python e Beautiful Soup.
 
-### Arquivo HTML inicial
-* [HTML Página pessoal](https://github.com/lucasfv1/pagina_pessoal_curso_web_scraping)
-
-### Documentação do Beautifulsoup
+### O Beautiful Soup
 * [Documentação Beautifulsoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+* [HTML Página pessoal - Extrair informações de um HTML](https://github.com/lucasfv1/pagina_pessoal_curso_web_scraping)
 
-### Exercício - Minhas Playlists
+### Projeto 1 - Wikipedia Web Scraping
+* [Solução](https://github.com/lucasfv1/web-scraping-example)
+
+### Projeto 2 - Minhas Playlists do Spotify
 * [Solução](https://github.com/lucasfv1/minhas_playlists_curso_web_scraping_solucao)
