@@ -9,4 +9,5 @@ Material de apoio do Curso de Web Scraping com Python e Beautiful Soup.
 * [Solução](https://github.com/lucasfv1/web-scraping-example)
 
 ### Projeto 2 - Minhas Playlists do Spotify
+* [Documentação do Spotipy](https://spotipy.readthedocs.io/en/2.25.0/)
 * [Solução](https://github.com/lucasfv1/minhas-playlists-curso-web-scraping-solucao)
