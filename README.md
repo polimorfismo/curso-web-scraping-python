@@ -12,7 +12,7 @@ Domine Web Scraping com Python: Aprenda a extrair dados da Web de forma fimples 
 ### Projeto 2 - Minhas Playlists do Spotify
 * [Site *Letras*](https://www.letras.mus.br/)
 * [Biblioteca *spotipy*](https://pypi.org/project/spotipy/)
-* [Documentação do spotipy](https://spotipy.readthedocs.io/en/2.25.0/)
+* [Documentação do *spotipy*](https://spotipy.readthedocs.io/en/2.25.0/)
 * [Solução](https://github.com/lucasfv1/minhas-playlists-curso-web-scraping-solucao)
 
 ### Projeto 3 - Notícias da Manhã
