@@ -1,6 +1,8 @@
 # Curso de Web Scraping com Python e Beautiful Soup
 Domine Web Scraping com Python: Aprenda a extrair dados da Web de forma fimples e poderosa usando Beautiful Soup!
 
+O curso completo pode ser encontrado em: https://www.udemy.com/course/python-web-scraping-com-beautiful-soup/?referralCode=6D5FB0727B9F1CB740C7
+
 ### O Beautiful Soup
 * [Documentação do Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
 * [HTML Página pessoal](https://github.com/lucasfv1/pagina-pessoal-curso-web-scraping)
